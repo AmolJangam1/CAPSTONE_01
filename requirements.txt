@@ -1,0 +1,10 @@
+# Dependencies for the license plate detection project
+# Based on the terminal installs used for this project
+
+# Core ML / detection stack
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+
+# Image processing used in inference
+opencv-python>=4.8.0
